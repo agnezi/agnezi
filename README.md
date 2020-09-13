@@ -10,4 +10,4 @@
 My name is Jonas Agnezi and I'm front-end developer.
 
  - 💙 In love with JavaScript
- - ⚡ Currently learning React.js
+ - ⚡ React.js

@@ -9,5 +9,5 @@
 
 My name is Jonas Agnezi and I'm front-end developer.
 
- - 💙 In love with JavaScript
+ - 💙 In love with HTML / CSS / Javascript
  - ⚡ React.js

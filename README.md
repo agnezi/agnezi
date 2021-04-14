@@ -7,7 +7,13 @@
 
 ### Hellooo! 👋
 
-I'm front-end developer.
+Sou um programador apaixonado pelo que faz, costumo dizer que não trabalho eu programo.
+
+Atualmente trabalho com desenvolvimento web Front-End utilizando HTML5/CSS3/Javascript com as libs React.js e Vue.js.
+
+Sempre estou aprendendo paradigmas, modelos de arquitetura e boas práticas para programação.
+
+Tenho interesse particular em tecnologias utilizadas por empresas do mercado financeiro. 
 
  - 💙 In love with HTML / CSS / Javascript
  - ⚡ React.js

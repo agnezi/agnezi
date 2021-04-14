@@ -17,3 +17,4 @@ Tenho interesse particular em tecnologias utilizadas por empresas do mercado fin
 
  - 💙 In love with HTML / CSS / Javascript
  - ⚡ React.js
+ - ⚡ Vue.js

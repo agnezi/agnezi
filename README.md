@@ -40,6 +40,8 @@ My name is Jonas and I'm a Front-End developer :man_technologist:. I'm from Braz
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnezi&hide=TeX&layout=compact)
 
+https://raw.githubusercontent.com/agnezi/github-stats-transparent/output/generated/overview.svg
+
 ##### ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=agnezi&count_private=true&show_icons=true&include_all_commits=true)

@@ -1,44 +1,24 @@
-## Hi, there! 👋
+<h1 align="center">Hi 👋, I'm Jonas</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
-My name is Jonas and I'm a Front-End developer :man_technologist:. I'm from Brazil, living in São Paulo and currently working at CPQD. I am always open to collaborating on projects and innovative/disruptive ideas. 
+- 🔭 I’m currently working on [Invillia](https://invillia.gupy.io/#)
 
+- 🌱 I’m currently learning **rust**
 
-##### BIO
+- 💬 Ask me about **react,vue, web-development**
 
-- 🏢 I'm currently working at **CPQD**
-- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.jsx`, `.vue`
-- 🌍 I'm mostly active within the **JavaScript Community**
-- 🌱 Learning all about **Open Source**
-- 🗣️ Find out more about me & feel free to connect with me here:
+- 📫 How to reach me **jonas.agnezi@gmail.com**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-agnezi/)](https://www.linkedin.com/in/jonas-agnezi/)
-[![Instagram Badge](https://img.shields.io/badge/-agnezi.io-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/agnezi.io/)](https://www.instagram.com/agnezi.io/)
-[![Twitter Badge](https://img.shields.io/badge/-agnezi_io-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/agnezi_io)](https://twitter.com/agnezi_io)
-[![Gmail Badge](https://img.shields.io/badge/-jonas.agnezi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonas.agnezi@gmail.com)](mailto:jonas.agnezi@gmail.com)
+- ⚡ Fun fact **I like manga**
 
-##### 🔧 Technologies & Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/agnezi_io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agnezi_io" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jonas-agnezi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonas-agnezi/" height="30" width="40" /></a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnezi&hide=TeX&layout=compact)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 ##### ⚡ GitHub Stats
 

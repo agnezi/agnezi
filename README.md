@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Invillia](https://invillia.gupy.io/#)
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **react,vue, web-development**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/agnezi_io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agnezi_io" height="30" width="40" /></a>
+<a href="https://twitter.com/tkoff0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agnezi_io" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jonas-agnezi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonas-agnezi/" height="30" width="40" /></a>
 </p>
 

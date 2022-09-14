@@ -6,7 +6,7 @@
 <br>
 💻 - I like accessibility, performance and robust code. In addition, I also like to help and communicate as much as I can.
 <br>
-🫂 - I really enjoy to thelp people on my team because that not only helps others, but also helps me.
+🫂 - I really enjoy to help people on my team because that not only helps others, but also helps me.
 
 <h3>📜 EXPERIENCE 📜</h3>
 

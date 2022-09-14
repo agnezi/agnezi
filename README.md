@@ -1,25 +1,27 @@
-<h1 align="center">Hi 👋, I'm Jonas</h1>
-<h3 align="center">A passionate Front-End developer from Brazil</h3>
+<h3>ABOUT ME</h3>
 
-- 🔭 I’m currently working on [Invillia](https://invillia.gupy.io/#)
+🥷 - I'm a versatile developer, with experience in building web platforms.
+<br>
+❤️ - I am a passionate programmer in love with the field, I like to say that I don't work, I program.
+<br>
+💻 - I like accessibility, performance and robust code. In addition, I also like to help and communicate as much as I can.
+<br>
+🫂 - I really enjoy to thelp people on my team because that not only helps others, but also helps me.
 
-- 🌱 I’m currently learning **Swift**
+<h3>📜 EXPERIENCE 📜</h3>
 
-- 💬 Ask me about **react,vue, web-development**
+In general terms, I have 4 years of experience with the Javascript ecosystem.
 
-- 📫 How to reach me **jonas.agnezi@gmail.com**
+I've experience working in a private company and as a freelancer.
 
-- ⚡ Fun fact **I like manga**
+I've spent most of my time as a developer with the following stacks:
+- <img src="https://img.shields.io/badge/Javascript | Typescript-Full--stack-white?labelColor=black" alt="Full-stack with React and Node"> <img src="https://img.shields.io/badge/-React -- Node -- Socket.io -- Amplify -- Netlify -grey" alt="React, Node and Nest">
+- <img src="https://img.shields.io/badge/React | Typescript-Front--end-white?labelColor=black" alt="Front-end with React and Typescript"> <img src="https://img.shields.io/badge/Next -- Recoil -- ReactQuery -- Styled--components-grey" alt="Recoil.js, ReactQuery and Styled--components">
+- <img src="https://img.shields.io/badge/Vue.js | Javascript-Front--end-white?labelColor=black" alt="Front-end with Vue.js and Javascript"> <img src="https://img.shields.io/badge/-Vue.js -- Vuex -- Vue--router -- Vuex -- Nuxt -grey" alt="React, Node and Nest">
+- <img src="https://img.shields.io/badge/Vanilla |  -Front--end-white?labelColor=black" alt="Front-end with HTML5 CSS3, and JavaScript"> <img src="https://img.shields.io/badge/-HTML5 -- CSS3 -- Javascript-grey" alt="Next.js (React) and Tailwind CSS">
+- <img src="https://img.shields.io/badge/I have worked with: -Technologies-white?labelColor=black" alt=""> <img src="https://img.shields.io/badge/-Nest.js -- Postgres -- Docker -- Jenkins -- Gitlab -- Redux -- ReduxThunk -- Jotai -- TailwindCSS -- Framer -grey" alt="Next.js (React) and Tailwind CSS">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tkoff0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agnezi_io" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jonas-agnezi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonas-agnezi/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-##### ⚡ GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=agnezi&count_private=true&show_icons=true&include_all_commits=true)
+<br>
+<br>
+<h3>👨‍🎓 What am I learning now? 👨‍🎓</h3>
+Now a days, I'm studying mobile development on IOS ecosystem, I'm learning Swift and SwiftUI

@@ -2,15 +2,17 @@
 
 🥷 - I'm a versatile developer, with experience in building web platforms.
 <br>
-❤️ - I am a passionate programmer in love with the field, I like to say that I don't work, I program.
+❤️ - I'm a passionate programmer in love with the field, I like to say that I don't work, I program.
 <br>
 💻 - I like accessibility, performance and robust code. In addition, I also like to help and communicate as much as I can.
 <br>
 🫂 - I really enjoy to help people on my team because that not only helps others, but also helps me.
+<br>
+📚 - I'm learning Swift, SwiftUI and Flutter development.
 
 <h3>📜 EXPERIENCE 📜</h3>
 
-In general terms, I have 4 years of experience with the Javascript ecosystem.
+In general terms, I have 4 years of experience with the Front-End ecosystem.
 
 I've experience working in a private company and as a freelancer.
 

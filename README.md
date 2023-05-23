@@ -1,8 +1,8 @@
 <h3>ABOUT ME</h3>
 
-🥷 - I'm a versatile developer, with more than 4 years of experience in building web platforms.
+🥷 - Im a versatile developer, with more than 4 years of experience in building web platforms.
 <br>
-❤️ - I am a passionate programmer in love with the field, I like to say that I don't work, I program.
+❤️ - I'm a passionate programmer in love with the field, I like to say that I don't work, I program.
 <br>
 💻 - I like accessibility, performance and robust code. In addition, I also like to help and communicate as much as I can.
 <br>
